@@ -112,4 +112,4 @@ class CustomRetriever(BaseRetriever):
 3. 文档格式是否为UTF-8编码的txt文件
 
 ---
-*信息检索课程项目 - 简洁实用的文档检索系统*
+*数据集链接：http://thuctc.thunlp.org/message*
